@@ -1,0 +1,56 @@
+{"basics":{
+"image":"vandhu.JPG",
+"name":"Vandhitha Meegada",
+"phoneno":"+9197630000485",
+"email":"vandhithameegada12@gmail.com",
+"add":"Address",
+"Address":" Srkr college,Bhimavaram."
+},
+"CareerObjective":{
+   "text":"CareerObjective:",
+  "info":"To pursue the challenging Career."
+},
+"education":[
+  {
+  "degree":"Btech",
+   "institute":"Srkr college",
+   "duration":["2017-2021","82%"],
+   "branch":"Information Technology"
+},
+ {
+   "degree":"Intermediate",
+    "institute":"Aditya college",
+    "duration":["2015-2017","95%"],
+    "branch":"MPC"
+ },
+ {
+   "degree":"SSC",
+    "institute":"Narayana EM School",
+    "duration":["2014-2015","97%"],
+    "branch":"MPC"
+ }
+],
+"skill":[
+  {
+  "title":"languages",
+  "data":["c","c++","javascript","php"]
+},
+{
+  "title":"database",
+  "data":["mysql","sql","oracle"]
+},
+{
+  "title":"Operating systems",
+  "data":["windows","ubuntu"]
+}
+],
+"Achievement":
+  {
+    "title":"Certified In:",
+    "ppt":"won second prize in powerpoint persentation.",
+    "cisco":"Achieved cisco Certificate.",
+    "csi":"Achieved csi membership Certificate.",
+    "web":"web Technologies like html,css,javascript,php.",
+    "arduino":"Achieved arduino workshop participation Certificate."
+ }
+}
